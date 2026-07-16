@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack%20%2F%20AI%20Developer-React%20%7C%20FastAPI%20%7C%20Python%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://t.me/lazalex81"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:lazalex81@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/lazmaksim2019-ops"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
 # Привет! 👋 Я Александр
 
 **Fullstack / AI Developer** — создаю высоконагруженные B2B-платформы и интеллектуальные AI-решения для e-commerce. Превращаю сложные бизнес-задачи в элегантные и производительные технические решения.
@@ -22,7 +34,7 @@
 ### 🚀 [AI Marketplace Optimizer](https://github.com/lazmaksim2019-ops/ai-marketplace-optimizer-saas)
 Мультимодальный AI SaaS для селлеров Wildberries и Ozon. SEO-генерация, анализ изображений, детекция триггеров инфографики на базе Google Gemini.
 - **Стек:** FastAPI, React, TypeScript, Tailwind, Gemini API, Docker
-- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/ai-marketplace-optimizer-saas/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/ai-marketplace-optimizer-saas/branch/main/graph/badge.svg) [🚀 Live Demo](https://ai-marketplace-optimizer-saas.onrender.com/)
+- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/ai-marketplace-optimizer-saas/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/ai-marketplace-optimizer-saas/branch/master/graph/badge.svg) [🚀 Live Demo](https://ai-marketplace-optimizer-saas.onrender.com/)
 
 ### 💼 [B2B Platform Landing](https://github.com/lazmaksim2019-ops/b2b-platform-kod-landing)
 Высококонверсионный лендинг с Lighthouse 100/100, адаптивной тёмной темой и интерактивным калькулятором ROI.
