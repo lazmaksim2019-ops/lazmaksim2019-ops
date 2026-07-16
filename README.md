@@ -48,6 +48,11 @@
 - **Стек:** Python, FastAPI, n8n, PostgreSQL, Docker
 - **Статус:** ![CI](https://github.com/lazmaksim2019-ops/marketplace-etl-pipeline/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/marketplace-etl-pipeline/branch/master/graph/badge.svg)
 
+### 🧠 [AI Habit Mentor](https://github.com/lazmaksim2019-ops/AI-Habit-Mentor)
+Премиальный AI-ментор привычек (Telegram Mini App) с семантической памятью на pgvector и RAG.
+- **Стек:** Python, FastAPI, PostgreSQL, pgvector, Gemini API
+- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/AI-Habit-Mentor/actions/workflows/ci.yml/badge.svg)
+
 ## 📊 Статистика
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lazmaksim2019-ops&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
