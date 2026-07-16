@@ -41,7 +41,7 @@
 ### 💼 [B2B Platform Landing](https://github.com/lazmaksim2019-ops/b2b-platform-kod-landing)
 Высококонверсионный лендинг с Lighthouse 100/100, адаптивной тёмной темой и интерактивным калькулятором ROI.
 - **Стек:** Next.js 16, TypeScript 5, Tailwind CSS v4, Framer Motion 12
-- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/b2b-platform-kod-landing/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/b2b-platform-kod-landing/branch/master/graph/badge.svg) [🚀 Live Demo](https://platforma-kod.vercel.app/)
+- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/b2b-platform-kod-landing/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/b2b-platform-kod-landing/branch/master/graph/badge.svg) [🚀 Live Demo](https://b2b-platform-kod-landing.onrender.com/)
 
 ### ⚙️ [Marketplace ETL Pipeline](https://github.com/lazmaksim2019-ops/marketplace-etl-pipeline)
 Промышленный пайплайн асинхронного парсинга и обогащения данных маркетплейсов.
