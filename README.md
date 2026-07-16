@@ -51,7 +51,7 @@
 ### 🧠 [AI Habit Mentor](https://github.com/lazmaksim2019-ops/AI-Habit-Mentor)
 Премиальный AI-ментор привычек (Telegram Mini App) с семантической памятью на pgvector и RAG.
 - **Стек:** Python, FastAPI, PostgreSQL, pgvector, Gemini API
-- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/AI-Habit-Mentor/actions/workflows/ci.yml/badge.svg)
+- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/AI-Habit-Mentor/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/AI-Habit-Mentor/branch/master/graph/badge.svg) [🚀 Live Demo](https://ai-habit-mentor.onrender.com/)
 
 ## 📊 Статистика
 <p align="left">
