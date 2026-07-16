@@ -46,6 +46,7 @@
 ### ⚙️ [Marketplace ETL Pipeline](https://github.com/lazmaksim2019-ops/marketplace-etl-pipeline)
 Промышленный пайплайн асинхронного парсинга и обогащения данных маркетплейсов.
 - **Стек:** Python, FastAPI, n8n, PostgreSQL, Docker
+- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/marketplace-etl-pipeline/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/marketplace-etl-pipeline/branch/master/graph/badge.svg)
 
 ## 📊 Статистика
 <p align="left">
