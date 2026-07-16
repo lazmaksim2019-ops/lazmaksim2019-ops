@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Framer_Motion-ff69b4?logo=framer&logoColor=white&style=for-the-badge" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
 </p>
@@ -38,7 +40,8 @@
 
 ### 💼 [B2B Platform Landing](https://github.com/lazmaksim2019-ops/b2b-platform-kod-landing)
 Высококонверсионный лендинг с Lighthouse 100/100, адаптивной тёмной темой и интерактивным калькулятором ROI.
-- **Стек:** Next.js, TypeScript, Tailwind CSS, Framer Motion
+- **Стек:** Next.js 16, TypeScript 5, Tailwind CSS v4, Framer Motion 12
+- **Статус:** ![CI](https://github.com/lazmaksim2019-ops/b2b-platform-kod-landing/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/b2b-platform-kod-landing/branch/master/graph/badge.svg) [🚀 Live Demo](https://platforma-kod.vercel.app/)
 
 ### ⚙️ [Marketplace ETL Pipeline](https://github.com/lazmaksim2019-ops/marketplace-etl-pipeline)
 Промышленный пайплайн асинхронного парсинга и обогащения данных маркетплейсов.
