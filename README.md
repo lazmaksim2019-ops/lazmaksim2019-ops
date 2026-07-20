@@ -16,7 +16,7 @@
 
 🔭 **Сейчас работаю над:** AI-хабом для селлеров маркетплейсов (React 19, FastAPI, Gemini API)
 🌱 **Изучаю:** Глубокую оптимизацию LLM-пайплайнов и векторные БД (pgvector)
-💬 **Связаться:** [Telegram](https://t.me/lazalex81) | [Email](mailto:lazalex81@gmail.com)
+💬 **Связаться:** [Telegram](https://t.me/lazalex81) | [Email](mailto:lazmaksim2019@gmail.com)
 
 ## 🛠️ Технологический стек
 <p align="left">
@@ -61,7 +61,7 @@
 
 ## 📫 Контакты
 - **Telegram:** [@lazalex81](https://t.me/lazalex81)
-- **Email:** [lazalex81@gmail.com](mailto:lazalex81@gmail.com)
+- **Email:** [lazalex81@gmail.com](mailto:lazmaksim2019@gmail.com)
 
 ---
 > *«AI не заменит разработчика. Но разработчик, использующий AI, заменит того, кто им не пользуется.»*
