@@ -55,7 +55,7 @@
 
 ## 📫 Контакты
 - **Telegram:** [@lazalex81](https://t.me/lazalex81)
-- **Email:** [lazalex81@gmail.com](mailto:lazmaksim2019@gmail.com)
+- **Email:** [lazmaksim2019@gmail.com](mailto:lazmaksim2019@gmail.com)
 
 ---
 > *«AI не заменит разработчика. Но разработчик, использующий AI, заменит того, кто им не пользуется.»*
