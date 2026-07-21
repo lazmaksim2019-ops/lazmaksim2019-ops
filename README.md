@@ -53,12 +53,6 @@
 - **Стек:** Python, FastAPI, PostgreSQL, pgvector, Gemini API
 - **Статус:** ![CI](https://github.com/lazmaksim2019-ops/AI-Habit-Mentor/actions/workflows/ci.yml/badge.svg) ![Coverage](https://codecov.io/gh/lazmaksim2019-ops/AI-Habit-Mentor/branch/master/graph/badge.svg) [🚀 Live Demo](https://ai-habit-mentor.onrender.com/)
 
-## 📊 Статистика
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazmaksim2019-ops&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazmaksim2019-ops&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## 📫 Контакты
 - **Telegram:** [@lazalex81](https://t.me/lazalex81)
 - **Email:** [lazalex81@gmail.com](mailto:lazmaksim2019@gmail.com)
